@@ -30,7 +30,7 @@ const user = sequelize.define('user',{
     },
     password_salt:{
         type:Sequelize.STRING(200),
-        allowNull:false
+        allowNull:********
 
     },
     suscribe:{
